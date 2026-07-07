@@ -64,7 +64,8 @@ The dashboard transforms financial data into meaningful insights, supporting bus
 
 ## Dashboard Preview
 
-*(Dashboard images will be added here.)*
+<img width="497" height="286" alt="Financial_Performance" src="https://github.com/user-attachments/assets/6ae1adac-4f7e-477a-b599-83a28b319028" />
+
 
 ---
 
